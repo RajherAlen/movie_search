@@ -1,3 +1,44 @@
+.table-bar {
+  background-color: #000;
+  display: block;
+  color: #fff;
+  padding-left: 16px;
+}
+
+.inputStyle {
+  font-size: 24px;
+  display: block;
+  width: 100%;
+  padding: 8px 0 8px 16px;
+}
+
+.movie-list {
+  background-color: #babec7;
+  border-radius: 10px;
+  width: 900px;
+  min-height: 250px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.movie-list input {
+  width: 100px;
+  height: 25px;
+  border-radius: 10px;
+  border: none;
+  background-color: #1ba117;
+  cursor: pointer;
+  color: #fff;
+}
+
+.movie-list input:hover {
+  background-color: #60c05dd3;
+}
+
+.movie-list img {
+  margin-right: 20px;
+}
+
 .App {
   text-align: center;
 }
